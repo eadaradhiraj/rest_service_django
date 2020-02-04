@@ -16,4 +16,4 @@ unittest-xml-reporting
 urllib3
 virtualenv
 virtualenv-clone
-virtualenvwrapper
+virtualenvwrappe
